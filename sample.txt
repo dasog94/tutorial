@@ -1,2 +1,3 @@
 Git command monkey can understand
 register add changes into index
+pull 원격 저장소의 내용을 가져오기
