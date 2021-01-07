@@ -1,1 +1,2 @@
 Git command monkey can understand
+register add changes into index
